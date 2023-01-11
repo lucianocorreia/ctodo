@@ -1,0 +1,5 @@
+[app]
+title = "Correia Todo's"
+
+[database]
+db_url="mongodb://localhost"
